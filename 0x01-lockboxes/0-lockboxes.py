@@ -16,4 +16,3 @@ def canUnlockAll(boxes):
         for key in boxes[i]:
             opened.add(key)
     return True
-
